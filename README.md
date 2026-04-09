@@ -19,3 +19,4 @@ How to Run:
 Clone the repository
 Open in Visual Studio
 Build and run the solution
+<img width="1366" height="768" alt="Dashboard" src="https://github.com/user-attachments/assets/e86a4b69-70b8-4087-8ea2-6e059649ccaf" />
