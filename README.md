@@ -1,22 +1,28 @@
-Credit Management System
-A desktop application built with C# and .NET Framework using Windows Forms to manage customer credit records for small businesses.
-Features:
+  Credit Management System
 
-Add and manage customer profiles
-Track customer credit limits and balances
-Record and monitor credit-based product purchases
-Maintain complete transaction history per customer
-View all customers with search and filter options
+    Why I Built This
+I run a small kiryana shop and struggled 
+to track customer credit manually in registers.
+This app solved that real problem — now I track 
+customers, purchases, payments, and balances digitally.
 
-Technologies Used:
+        Features
+- Add and manage customer profiles
+- Track credit limits and balances  
+- Record credit-based purchases
+- Complete transaction history
+- Payment tracking
+- Crystal Reports for printing
 
-C# / .NET Framework
-Windows Forms (WinForms)
-SQL Server / MS Access
+      Tech Stack
+- C# / .NET Framework
+- Windows Forms (WinForms)
+- SQL Server
+- Crystal Reports
+- MetroFramework UI
 
-How to Run:
-
-Clone the repository
-Open in Visual Studio
-Build and run the solution
-<img width="1366" height="768" alt="Dashboard" src="https://github.com/user-attachments/assets/e86a4b69-70b8-4087-8ea2-6e059649ccaf" />
+      How to Run
+1. Clone the repository
+2. Open in Visual Studio
+3. Update connection string in App.config
+4. Build and run
